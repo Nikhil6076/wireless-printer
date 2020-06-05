@@ -1,0 +1,6 @@
+ Install the latest version of Rasbian os in the raspberry pi.
+ Download the required cups driver for your printer from the cups official website on to the Raspberry pi.
+ Install python in Raspberry.
+ Write the python script and save the file. 
+ Place the file in the boot folder of the raspberry pi so that the file runs whenever the pi is turned on.
+ Create a website where we will upload the files that are to be printed, write the php script in the web page.
