@@ -6,3 +6,7 @@ But even it may have some disadvantages. So if we can access a single printer vi
 
 
 The Raspberry Pi will be connected to printer and then files will be printed through printer.
+
+Here basically what we are doing is that, we are creating a web page where the user uploads the file that needs to be printed and clicks on print.
+
+Whenever the user clicks on print button the files will be sent to a default mail account and on the other side the raspberry pi which is connected to the printer keeps on checking the same mail for unread mails. Whenever it finds a new unread mail then it just downloads the attachment and gives it to the printer and the printer prints the file. 
